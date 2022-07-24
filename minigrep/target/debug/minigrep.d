@@ -1,0 +1,1 @@
+/Users/roy/workspace/Rust/programs/learning/minigrep/target/debug/minigrep: /Users/roy/workspace/Rust/programs/learning/minigrep/src/lib.rs /Users/roy/workspace/Rust/programs/learning/minigrep/src/main.rs

@@ -1,0 +1,1 @@
+/Users/roy/workspace/Rust/programs/learning/closure/target/debug/closure: /Users/roy/workspace/Rust/programs/learning/closure/src/lib.rs /Users/roy/workspace/Rust/programs/learning/closure/src/main.rs
